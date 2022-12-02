@@ -29,7 +29,7 @@ link.header
 }
 header
 {
-    background-image: url('Images/back.jpg');
+    background-image: url('/Images/back.jpg');
     padding: 25px;
     width: 98%;
     height: 150px;
@@ -42,7 +42,7 @@ nav
     width: 98%;
     height: 50px;
     position: static;
-    background-image:url('Images/ss.png');
+    background-image:url('/Images/ss.png');
 }
 pre.sa
 {
