@@ -1,4 +1,4 @@
-<link class="header" rel="stylesheet" href="Style.css">
+<link class="header" rel="stylesheet" href="Style/Style.css">
 <header>
     <center><p> ALPHA </p></center>
     <img class="aa" src="Images/s.webp" alt="ALPHA">
